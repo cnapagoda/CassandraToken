@@ -1,7 +1,7 @@
 CassandraToken
 ==============
 
-CassandraTokenCalculater
+Cassandra Initial Token(initial_token) Calculater for Clustering 
 
 
 Run HTML Client:
