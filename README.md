@@ -6,14 +6,15 @@ CassandraTokenCalculater
 
 Run HTML Client:
 
-1). Download index.html client
-2). Open using browser
-3). Provide number of node and generate initial token
+* Download index.html client
+* Open using browser
+* Provide number of node and generate initial token
 
 
 Run JAVA Client:
 
-1). Download CassandraToken.java code.
-2). Compile the CassandraToken.java (ex: 'javac CassandraToken.java')
-3). Run Java client with no of nodes as argument( ex: java CassandraToken 4). 
+* Download CassandraToken.java code.
+* Compile the CassandraToken.java (ex: `javac CassandraToken.java`)
+* Run Java client with no of nodes as argument( ex: `java CassandraToken 4`). 
+
 
