@@ -9,6 +9,7 @@ Run HTML Client:
 * Download index.html client
 * Open using browser
 * Provide number of node and generate initial token
+* [Online Example](http://htmlpreview.github.io/?https://github.com/cnapagoda/CassandraToken/blob/master/index.html)
 
 
 Run JAVA Client:
