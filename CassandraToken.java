@@ -8,7 +8,7 @@ public class CassandraToken{
 			System.exit(0);
 		}
 
-		int numberOfNode = 3;
+		int numberOfNode = Integer.parseInt(args[0]);
 		BigInteger num  = BigInteger.valueOf(numberOfNode);
 		BigInteger power = BigInteger.valueOf(2).pow(127);
 		System.out.println("\n\n");
