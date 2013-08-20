@@ -19,3 +19,7 @@ Run JAVA Client:
 * Run Java client with no of nodes as argument( ex: `java CassandraToken 4`). 
 
 
+
+[Author Blog](http://cnapagoda.blogspot.com)
+
+
